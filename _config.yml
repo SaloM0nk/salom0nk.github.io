@@ -1,6 +1,6 @@
 # Site
 repository: SaloM0nk/salom0nk.github.io
-favicon: images/favicon.ico
+favicon: images/SaloMonk.png
 description: Personal website showcasing my CV, publications, and professional profile
 
 # Content configuration version
@@ -8,8 +8,10 @@ version: 2
 
 # Personal info
 name: Timo Salomon
-title: Researcher | Developer | Academic
-email: mail@timosalomon.de
+title: | # this will include new lines to allow paragraphs
+  (born Häckel)
+  Engineer | Researcher | Developer 
+email: connect@timosalomon.de
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -27,6 +29,7 @@ additional_links:
 
 # About Section
 about_title: About Me
+about_profile_image: image/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a researcher and professional with interests in various fields. 
   This website showcases my curriculum vitae, research publications, and professional profiles.
