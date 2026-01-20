@@ -1,6 +1,7 @@
 # Site
 repository: SaloM0nk/salom0nk.github.io
 favicon: images/favicon.ico
+description: Personal website showcasing my CV, publications, and professional profile
 
 # Content configuration version
 version: 2
