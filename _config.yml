@@ -37,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Hamburg
     layout: image
-    content:
+    content: |
       ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
   - title: Education
     layout: list
