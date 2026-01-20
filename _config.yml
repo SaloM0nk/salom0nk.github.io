@@ -1,0 +1,30 @@
+# Site settings
+title: CV & Portfolio
+name: Your Name
+email: your.email@example.com
+description: Personal website showcasing my CV, publications, and professional profile
+url: "https://salom0nk.github.io"
+baseurl: ""
+
+# Social media profiles
+github_username: SaloM0nk
+linkedin_username: your-linkedin
+twitter_username: your-twitter
+orcid_id: 0000-0000-0000-0000
+google_scholar_id: your-scholar-id
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
