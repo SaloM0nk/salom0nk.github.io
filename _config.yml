@@ -21,8 +21,8 @@ xing_username: Timo_Salomon042561
 orcid_username: 0000-0002-8343-0625
 googlescholar_username: hity4acAAAAJ
 additional_links:
-- title: Test Link
-  icon: fab fa-ello
+- title: Mastodon
+  icon: fab fa-mastodon
   url: https://norden.social/@SaloMonk
 
 # About Section
