@@ -47,7 +47,8 @@ content:
       - layout: left
         title: | 
           (IN PROGRESS) 
-          Ph.D. (Dr.-Ing.) in Computer Science
+
+          Ph.D. (Dr.-Ing.): Computer Science
         sub_title: TU Dresden, Germany
         caption: 2018 - 2026
         description: |
@@ -57,7 +58,8 @@ content:
           - Research focus: Exploring the tightly intertwined safety and security of time-sensitive in-vehicle networks. See publications below.
       
       - layout: left
-        title: M.Sc. in Computer Science
+        title: | 
+          M.Sc.: Computer Science
         sub_title: HAW Hamburg, Germany
         caption: 2016 - 2018
         description: |
@@ -67,7 +69,8 @@ content:
           - ECTS-Grade: "A" - top 10%
       
       - layout: left
-        title: B.Sc. in Technical Computer Science
+        title: | 
+          B.Sc.: Technical Computer Science
         sub_title: HAW Hamburg, Germany
         caption: 2013 - 2016
         description: |
@@ -112,7 +115,7 @@ content:
       - Characteristics: well organized, determined, committed, team player
 
   - title: Scientific Publications
-    layout: text
+    layout: top-middle
     content: |
       **Title of Your Most Recent Publication**  
       Your Name, Co-Author 1, Co-Author 2  
