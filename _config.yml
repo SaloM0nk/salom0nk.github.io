@@ -8,10 +8,8 @@ version: 2
 
 # Personal info
 name: Timo Salomon
-title: | # this will include new lines to allow paragraphs
-  (born Häckel)
-  Engineer | Researcher | Developer 
-email: connect@timosalomon.de
+title: Engineer | Researcher | Developer 
+email: contact@timosalomon.de
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,7 +17,7 @@ darkmode: false
 # Social links
 github_username: SaloM0nk
 linkedin_username: timo-salomon-413215312
-xing_username: Timo_Salomon042561
+# xing_username: Timo_Salomon042561
 orcid_username: 0000-0002-8343-0625
 googlescholar_username: hity4acAAAAJ
 additional_links:
@@ -29,7 +27,7 @@ additional_links:
 
 # About Section
 about_title: About Me
-about_profile_image: image/profile_ts.jpg
+about_profile_image: images/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a researcher and professional with interests in various fields. 
   This website showcases my curriculum vitae, research publications, and professional profiles.
@@ -37,6 +35,10 @@ about_content: | # this will include new lines to allow paragraphs
   Feel free to explore my work and get in touch if you'd like to collaborate or learn more about my research.
 
 content:
+  - title: Hamburg
+    layout: image
+    content:
+      ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
   - title: Education
     layout: list
     content:
