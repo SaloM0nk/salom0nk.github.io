@@ -10,7 +10,6 @@ version: 2
 name: Timo Salomon
 title: Researcher | Developer | Academic
 email: mail@timosalomon.de
-website: https://salom0nk.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -18,8 +17,13 @@ darkmode: false
 # Social links
 github_username: SaloM0nk
 linkedin_username: timo-salomon-413215312
+xing_username: Timo_Salomon042561
 orcid_username: 0000-0002-8343-0625
 googlescholar_username: hity4acAAAAJ
+additional_links:
+- title: Test Link
+  icon: fab fa-ello
+  url: https://norden.social/@SaloMonk
 
 # About Section
 about_title: About Me
