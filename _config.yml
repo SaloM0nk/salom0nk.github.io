@@ -30,42 +30,49 @@ about_title: About Me
 about_profile_image: images/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a researcher, software developer, network architect, and security engineer based in Hamburg, Germany. 
-  Currently pursuing the Ph.D. degree in cooperation with the Technical University of Dresden, and Hamburg University of Applied Sciences in Germany. 
+
+  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
+
+  Currently pursuing the degree of Dr.-Ing. in cooperation with the Technical University of Dresden, and Hamburg University of Applied Sciences in Germany. 
   My particular interest is the tightly intertwined safety and security of time-sensitive in-vehicle networks, which I am exploring in the context of different research projects. 
   I am a member of the CoRE and INET working groups at HAW Hamburg, where I develop and maintain open-source frameworks for the OMNeT++ simulator. 
   Approaching my doctorate I am looking for opportunities to apply my experience to network and security projects in industry. 
 
   Feel free to explore my work and get in touch.
-  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 
 content:
   - title: Education
     layout: list
     content:
       - layout: left
-        title: Ph.D. in [Your Field]
-        sub_title: University Name
-        caption: 2020 - 2024
+        title: (in progress) Ph.D. (Dr.-Ing.) in Computer Science
+        sub_title: TU Dresden, Germany
+        caption: 2018 - 2026
         description: |
-          - Thesis: [Thesis title]
-          - Advisor: [Advisor name]
-          - Research focus: [Brief description]
+          - Thesis: Security Measures for In-Vehicular Real-Time Networks
+          - Supervisor (TU Dresden): Prof. Dr. Matthias Wählisch 
+          - Supervisor (HAW Hamburg): Prof. Dr. Thomas C. Schmidt 
+          - Research focus: Exploring the tightly intertwined safety and security of time-sensitive in-vehicle networks. See publications below.
       
       - layout: left
-        title: Master of Science in [Your Field]
-        sub_title: University Name
-        caption: 2018 - 2020
+        title: Master of Science in Computer Science
+        sub_title: HAW Hamburg, Germany
+        caption: 2016 - 2018
         description: |
-          - Major: [Your major]
-          - GPA: [Your GPA]
+          - Thesis: Automotive Communication Architectures Supporting Quality-of-Service Agreements 
+          - Supervisor: Prof. Dr. Franz Korf 
+          - Grade: Excellent
+          - ECTS-Grade: "A" - top 10%
       
       - layout: left
-        title: Bachelor of Science in [Your Field]
-        sub_title: University Name
-        caption: 2014 - 2018
+        title: Bachelor of Science in Technical Computer Science
+        sub_title: HAW Hamburg, Germany
+        caption: 2013 - 2016
         description: |
-          - Major: [Your major]
-          - Honors: [Any honors or distinctions]
+          - Thesis: Feasibility study for porting a multi-chip e-bike user interface to a current Bluetooth Low Energy single-chip system 
+          - Supervisor: Prof. Dr. Stephan Pareigis 
+          - Grade: Very Good
+          - ECTS-Grade: "A" - top 10%
 
   - title: Professional Experience
     layout: list
@@ -88,15 +95,19 @@ content:
           - Developed software tools for [purpose]
           - Mentored undergraduate students
 
-  - title: Skills
+  - title: Interest and Skills
     layout: text
     content: |
-      - Python
-      - Machine Learning
-      - Data Analysis
-      - Research
-      - Academic Writing
-      - Statistics
+      - Network security design 
+      - In-vehicle network architecture 
+      - Secure, real-time communication in service-oriented architecture
+      - IEEE Time-Sensitive Networking (TSN) 
+      - Software-Defined Networking (SDN)
+      - Programming languages: C/C++, Python, JAVA, C#, Bash/Shell/PowerShell 
+      - Management and organization of groups and teams
+      - Excellent written and verbal communication (English, German) 
+      - Looking for open challenges and networking problems 
+      - Characteristics: well organized, determined, committed, team player
 
   - title: Scientific Publications
     layout: text
