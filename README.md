@@ -1,12 +1,14 @@
 # Personal Website - CV, Publications & Social Media
 
-This is a Jekyll-based GitHub Pages website showcasing my professional profile, curriculum vitae, scientific publications, and social media links.
+This is a Jekyll-based GitHub Pages website showcasing my professional profile, curriculum vitae, scientific publications, and social media links using the [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme).
 
 ## Features
 
+- **Modern Resume Theme**: Professional, responsive design optimized for resumes
 - **Curriculum Vitae**: Education, professional experience, and skills
 - **Publications**: List of scientific publications with links
-- **Social Media**: Links to GitHub, LinkedIn, Twitter, ORCID, and Google Scholar
+- **Social Media**: Links to GitHub, LinkedIn, ORCID, and Google Scholar
+- **Dark Mode Support**: Optional dark mode theme
 - **Responsive Design**: Mobile-friendly layout
 
 ## Setup Instructions
@@ -40,9 +42,11 @@ This is a Jekyll-based GitHub Pages website showcasing my professional profile, 
 ### Customization
 
 1. **Update personal information**: Edit `_config.yml` to add your name, email, and social media profiles
-2. **Update CV content**: Edit `index.html` to update your education, experience, and skills
-3. **Update publications**: Edit the publications section in `index.html` with your papers
-4. **Customize styling**: Modify `assets/css/style.css` to change colors and layout
+2. **Update CV content**: Edit the `content` section in `_config.yml` to update your education, experience, and skills
+3. **Update publications**: Edit the publications section in `_config.yml` with your papers
+4. **Add profile image**: Add your profile image to `images/profile.jpg` and update the `about_profile_image` setting
+
+For more information on customizing the theme, see the [Modern Resume Theme documentation](https://github.com/sproogen/modern-resume-theme).
 
 ## Deployment
 
@@ -57,20 +61,16 @@ To enable GitHub Pages:
 
 ```
 .
-├── _config.yml           # Site configuration
-├── _layouts/
-│   └── default.html      # Main layout template
-├── _includes/
-│   └── social-links.html # Social media links component
-├── assets/
-│   └── css/
-│       └── style.css     # Site styling
-├── index.html            # Main page with CV and publications
+├── _config.yml           # Site configuration and all content
 ├── Gemfile               # Ruby dependencies
 └── .github/
     └── workflows/
         └── jekyll.yml    # GitHub Actions workflow
 ```
+
+## Theme
+
+This site uses the [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme) by [James Grant](https://github.com/sproogen).
 
 ## License
 

@@ -1,30 +1,134 @@
-# Site settings
-title: CV & Portfolio
-name: Timo Salomon
-email: mail@timosalomon.de
+# Site
+repository: SaloM0nk/salom0nk.github.io
+favicon: images/favicon.ico
 description: Personal website showcasing my CV, publications, and professional profile
-url: "https://salom0nk.github.io"
-baseurl: ""
 
-# Social media profiles
+# Content configuration version
+version: 2
+
+# Personal info
+name: Timo Salomon
+title: Researcher | Developer | Academic
+email: mail@timosalomon.de
+website: https://salom0nk.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
 github_username: SaloM0nk
-linkedin_username: timo-salomon-413215312/
-twitter_username: your-twitter
-orcid_id: 0000-0002-8343-0625
-google_scholar_id: hity4acAAAAJ
+linkedin_username: timo-salomon-413215312
+orcid_username: 0000-0002-8343-0625
+googlescholar_username: hity4acAAAAJ
+
+# About Section
+about_title: About Me
+about_content: | # this will include new lines to allow paragraphs
+  Hello! I am a researcher and professional with interests in various fields. 
+  This website showcases my curriculum vitae, research publications, and professional profiles.
+
+  Feel free to explore my work and get in touch if you'd like to collaborate or learn more about my research.
+
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Ph.D. in [Your Field]
+        sub_title: University Name
+        caption: 2020 - 2024
+        description: |
+          - Thesis: [Thesis title]
+          - Advisor: [Advisor name]
+          - Research focus: [Brief description]
+      
+      - layout: left
+        title: Master of Science in [Your Field]
+        sub_title: University Name
+        caption: 2018 - 2020
+        description: |
+          - Major: [Your major]
+          - GPA: [Your GPA]
+      
+      - layout: left
+        title: Bachelor of Science in [Your Field]
+        sub_title: University Name
+        caption: 2014 - 2018
+        description: |
+          - Major: [Your major]
+          - Honors: [Any honors or distinctions]
+
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: Research Scientist
+        sub_title: "[Institution]"
+        caption: 2024 - Present
+        description: |
+          - Conducting research on [topic]
+          - Publishing papers in top-tier conferences and journals
+          - Collaborating with international research teams
+      
+      - layout: left
+        title: Research Assistant
+        sub_title: "[Institution]"
+        caption: 2020 - 2024
+        description: |
+          - Assisted in research projects on [topic]
+          - Developed software tools for [purpose]
+          - Mentored undergraduate students
+
+  - title: Skills
+    layout: text
+    content: |
+      - Python
+      - Machine Learning
+      - Data Analysis
+      - Research
+      - Academic Writing
+      - Statistics
+
+  - title: Scientific Publications
+    layout: text
+    content: |
+      **Title of Your Most Recent Publication**  
+      Your Name, Co-Author 1, Co-Author 2  
+      *Conference/Journal Name, Year*
+
+      **Another Important Publication Title**  
+      Your Name, Co-Author 1  
+      *Journal Name, Volume(Issue), Pages, Year*
+
+      **Earlier Work: Interesting Research Topic**  
+      Co-Author 1, Your Name, Co-Author 2  
+      *Conference Name, Year*
+
+      For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hity4acAAAAJ).
+
+# Footer
+footer_show_references: true
 
 # Build settings
-markdown: kramdown
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Exclude files from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .sass-cache
   - .jekyll-cache
   - .jekyll-metadata
