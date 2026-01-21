@@ -195,6 +195,20 @@ content:
           - [SDN4CoRE (Software-Defined Networking for Communication over Realtime Ethernet)](https://github.com/CoRE-RG/SDN4CoRE)
           - [SOA4CoRE (Service-Oriented Architecture for Communication over Realtime Ethernet)](https://github.com/CoRE-RG/SOA4CoRE)
 
+  - title: More About Me
+    layout: text
+    content: |
+    
+      Since 2011, I have been enthusiastically involved in my table tennis club, TuS Berne Hamburg e.V., as a coach and head of the youth department for ages 8 to 18. I am also a player and captain of an adults team. 
+      
+      I love traveling with my wife to foreign countries and cultures to discover new things. I really enjoy hiking and photography is a particular passion of mine. 
+      
+      In my free time, I like to do sports, play board games with friends, watch movies, and listen to music.
+
+# What others say about Timo
+
+# Statistics: Lines of Latex Code
+
 # Footer
 footer_show_references: true
 
