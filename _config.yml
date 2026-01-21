@@ -144,41 +144,41 @@ content:
   - title: Selected Scientific Publications
     layout: text
     content: | 
-      For a complete list of publications, please visit the [INET RG Homepage](https://www.inet.haw-hamburg.de/publications/TimoSalomon.html), my [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ), or [ORCID](https://orcid.org/0000-0002-8343-0625).
 
       **Negotiating strict latency limits for dynamic real-time services in vehicular time-sensitive networks**  
       **T. Salomon**, L. Maile, P. Meyer, F. Korf, and T. C. Schmidt  
-      Vehicular Communications, vol. 57, p. 100 985, Feb. 2026. [DOI](https://doi.org/10.1016/j.vehcom.2025.100985)
+      Vehicular Communications, vol. 57, p. 100 985, Feb. **2026**. [DOI](https://doi.org/10.1016/j.vehcom.2025.100985)
 
       **Securing Future In-Vehicle Networks: Monitoring and Control for Ethernet Backbones**  
       **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt  
       Engineering Safe and Trustworthy Cyber Physical Systems: Essays Dedicated to Werner Damm on the Occasion of His 71st Birthday  
       Eds.: M. Fränzle, J. Niehaus, and B. Westphal, Cham: Springer Nature Switzerland, 2026, pp. 163-182. [DOI](https://doi.org/10.1007/978-3-031-97537-0_10)
 
-      **Building Automotive Security on Internet Standards: An Integration of DNSSEC, DANE, and DANCE to Authenticate and Authorize In-Car Services**
-      **T. Salomon**, M. Mueller, P. Meyer, T. C. Schmidt
+      **Building Automotive Security on Internet Standards: An Integration of DNSSEC, DANE, and DANCE to Authenticate and Authorize In-Car Services**  
+      **T. Salomon**, M. Mueller, P. Meyer, T. C. Schmidt  
       Preprint on [arXiv:2504.05793](https://arxiv.org/abs/2504.05793)
 
-      **Secure Time-Sensitive Software-Defined Networking in Vehicles** 
-      **T. Häckel**, P. Meyer, F. Korf, T. C. Schmidt
-      IEEE Transactions on Vehicular Technology, Vol. 72, No. 1, pp. 35-51, 2023. [DOI](https://doi.org/10.1109/TVT.2022.3202368)
+      **Secure Time-Sensitive Software-Defined Networking in Vehicles**  
+      **T. Häckel**, P. Meyer, F. Korf, T. C. Schmidt  
+      IEEE Transactions on Vehicular Technology, Vol. 72, No. 1, pp. 35-51, **2023**. [DOI](https://doi.org/10.1109/TVT.2022.3202368)
 
-      **Dynamic Service-Orientation for Software-Defined In-Vehicle Networks**
-      **T. Häckel**, P. Meyer, M. Mueller, J. Schmitt-Solbrig, F. Korf, T. C. Schmidt
-      Proceedings of the IEEE 97th Vehicular Technology Conference (VTC2023-Spring), pp. 1-5, 2023. [DOI](https://doi.org/10.1109/VTC2023Spring57618.2023.10199712)
+      **Dynamic Service-Orientation for Software-Defined In-Vehicle Networks**  
+      **T. Häckel**, P. Meyer, M. Mueller, J. Schmitt-Solbrig, F. Korf, T. C. Schmidt  
+      Proceedings of the IEEE 97th Vehicular Technology Conference (VTC2023-Spring), pp. 1-5, **2023**. [DOI](https://doi.org/10.1109/VTC2023Spring57618.2023.10199712)
       
-      **Strategies for Integrating Control Flows in Software-Defined In-Vehicle Networks and Their Impact on Network Security**
-      **T. Häckel**, A. Schmidt, P. Meyer, F. Korf, and T. C. Schmidt
-      Proceedings of the 2020 IEEE Vehicular Networking Conference (VNC), pp. 1-8, 2020. [DOI](https://doi.org/10.1109/VNC51378.2020.9318372)
+      **Strategies for Integrating Control Flows in Software-Defined In-Vehicle Networks and Their Impact on Network Security**  
+      **T. Häckel**, A. Schmidt, P. Meyer, F. Korf, and T. C. Schmidt  
+      Proceedings of the 2020 IEEE Vehicular Networking Conference (VNC), pp. 1-8, **2020**. [DOI](https://doi.org/10.1109/VNC51378.2020.9318372)
 
-      **Software-Defined Networks Supporting Time-Sensitive In-Vehicular Communication**
-      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
-      Proceedings of the IEEE 89th Vehicular Technology Conference: VTC2019-Spring, pp. 1-5, 2019. [DOI](https://doi.org/10.1109/VTCSpring.2019.8746473)
+      **Software-Defined Networks Supporting Time-Sensitive In-Vehicular Communication**  
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt  
+      Proceedings of the IEEE 89th Vehicular Technology Conference: VTC2019-Spring, pp. 1-5, **2019**. [DOI](https://doi.org/10.1109/VTCSpring.2019.8746473)
 
-      **SDN4CoRE: A Simulation Model for Software-Defined Networking for Communication over Real-Time Ethernet**
-      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
-      Proceedings of the 6th International OMNeT++ Community Summit 2019, pp. 24-31, 2019. [DOI](https://doi.org/10.29007/w71t)
+      **SDN4CoRE: A Simulation Model for Software-Defined Networking for Communication over Real-Time Ethernet**  
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt  
+      Proceedings of the 6th International OMNeT++ Community Summit 2019, pp. 24-31, **2019**. [DOI](https://doi.org/10.29007/w71t)
 
+      For a complete list of publications, please visit the [INET RG Homepage](https://www.inet.haw-hamburg.de/publications/TimoSalomon.html), my [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ), or [ORCID](https://orcid.org/0000-0002-8343-0625).
 # Footer
 footer_show_references: true
 
