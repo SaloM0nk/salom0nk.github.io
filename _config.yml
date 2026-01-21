@@ -144,15 +144,16 @@ content:
   - title: Selected Scientific Publications
     layout: text
     content: | 
-      **Negotiating strict latency limits for dynamic real-time services in vehicular time-sensitive networks**
-      **T. Salomon**, L. Maile, P. Meyer, F. Korf, and T. C. Schmidt
+      For a complete list of publications, please visit the [INET RG Homepage](https://www.inet.haw-hamburg.de/publications/TimoSalomon.html), my [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ), or [ORCID](https://orcid.org/0000-0002-8343-0625).
+
+      **Negotiating strict latency limits for dynamic real-time services in vehicular time-sensitive networks**  
+      **T. Salomon**, L. Maile, P. Meyer, F. Korf, and T. C. Schmidt  
       Vehicular Communications, vol. 57, p. 100 985, Feb. 2026. [DOI](https://doi.org/10.1016/j.vehcom.2025.100985)
 
-      **Securing Future In-Vehicle Networks: Monitoring and Control for Ethernet Backbones**
-      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
-      Engineering Safe and Trustworthy Cyber Physical Systems: Essays Dedicated to Werner Damm on the Occasion of His 71st Birthday
-      Eds.: M. Fränzle, J. Niehaus, and B. Westphal
-      Cham: Springer Nature Switzerland, 2026, pp. 163-182. [DOI](https://doi.org/10.1007/978-3-031-97537-0_10)
+      **Securing Future In-Vehicle Networks: Monitoring and Control for Ethernet Backbones**  
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt  
+      Engineering Safe and Trustworthy Cyber Physical Systems: Essays Dedicated to Werner Damm on the Occasion of His 71st Birthday  
+      Eds.: M. Fränzle, J. Niehaus, and B. Westphal, Cham: Springer Nature Switzerland, 2026, pp. 163-182. [DOI](https://doi.org/10.1007/978-3-031-97537-0_10)
 
       **Building Automotive Security on Internet Standards: An Integration of DNSSEC, DANE, and DANCE to Authenticate and Authorize In-Car Services**
       **T. Salomon**, M. Mueller, P. Meyer, T. C. Schmidt
@@ -177,8 +178,6 @@ content:
       **SDN4CoRE: A Simulation Model for Software-Defined Networking for Communication over Real-Time Ethernet**
       **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
       Proceedings of the 6th International OMNeT++ Community Summit 2019, pp. 24-31, 2019. [DOI](https://doi.org/10.29007/w71t)
-
-      More publications: [INET RG Homepage](https://www.inet.haw-hamburg.de/publications/TimoSalomon.html), [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ), [ORCID](https://orcid.org/0000-0002-8343-0625).
 
 # Footer
 footer_show_references: true
