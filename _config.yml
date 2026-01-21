@@ -29,16 +29,16 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
+  Hello! I am a researcher, software developer, network architect, and security engineer based in Hamburg, Germany. In May 2025, I changed my name from Timo Häckel to Timo Salomon due to marriage.
 
-  Hello! I am a researcher, software developer, network architect, and security engineer based in Hamburg, Germany. In May 2025 I changed my name from Timo Häckel to Timo Salomon due to marriage.
-
-  Currently I am pursuing the Ph.D. degree in cooperation with the Technical University of Dresden, and Hamburg University of Applied Sciences in Germany. 
+  Currently, I am pursuing a doctoral degree in cooperation with the Technical University of Dresden, and Hamburg University of Applied Sciences in Germany. 
   My particular interest is the tightly intertwined safety and security of time-sensitive in-vehicle networks, which I am exploring in the context of different research projects. 
   I am a member of the CoRE and INET working groups at HAW Hamburg, where I develop and maintain open-source frameworks for the OMNeT++ simulator. 
 
   Approaching my doctorate, I am looking for opportunities to apply my experience to network and security projects in industry. 
   Feel free to explore my work and get in touch.
+
+  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 
 content:
   - title: Education
@@ -99,14 +99,23 @@ content:
     layout: text
     content: |
       - Network security design 
+
       - In-vehicle network architecture 
+
       - Secure, real-time communication in service-oriented architecture
+
       - IEEE Time-Sensitive Networking (TSN) 
+
       - Software-Defined Networking (SDN)
+
       - Programming languages: C/C++, Python, JAVA, C#, Bash/Shell/PowerShell 
+
       - Management and organization of groups and teams
+
       - Excellent written and verbal communication (English, German) 
+
       - Looking for open challenges and networking problems 
+
       - Characteristics: well organized, determined, committed, team player
 
   - title: Scientific Publications
@@ -124,7 +133,7 @@ content:
       Co-Author 1, Your Name, Co-Author 2  
       *Conference Name, Year*
 
-      For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=hity4acAAAAJ).
+      For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ) or [ORCID](https://orcid.org/0000-0002-8343-0625) profiles.
 
 # Footer
 footer_show_references: true
