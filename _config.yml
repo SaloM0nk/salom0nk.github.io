@@ -15,10 +15,10 @@ email: contact@timosalomon.de
 darkmode: false
 
 # Social links
-github_username: SaloM0nk
 linkedin_username: timo-salomon-413215312
-# xing_username: Timo_Salomon042561
 orcid_username: 0000-0002-8343-0625
+github_username: SaloM0nk
+# xing_username: Timo_Salomon042561
 googlescholar_username: hity4acAAAAJ
 additional_links:
 - title: Mastodon
@@ -26,7 +26,6 @@ additional_links:
   url: https://norden.social/@SaloMonk
 
 # About Section
-# ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 about_title: About Me
 about_profile_image: images/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
@@ -38,6 +37,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Approaching my doctorate, I am looking for opportunities to apply my experience to network and security projects in industry. 
   Feel free to explore my work and get in touch.
+
+  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 
 content:
   - title: Education
@@ -140,22 +141,44 @@ content:
 
       - Characteristics: well organized, determined, committed, team player
 
-  - title: Scientific Publications
+  - title: Selected Scientific Publications
     layout: text
-    content: |
-      **Title of Your Most Recent Publication**  
-      Your Name, Co-Author 1, Co-Author 2  
-      *Conference/Journal Name, Year*
+    content: | 
+      **Negotiating strict latency limits for dynamic real-time services in vehicular time-sensitive networks**
+      **T. Salomon**, L. Maile, P. Meyer, F. Korf, and T. C. Schmidt
+      Vehicular Communications, vol. 57, p. 100 985, Feb. 2026. [DOI](https://doi.org/10.1016/j.vehcom.2025.100985)
 
-      **Another Important Publication Title**  
-      Your Name, Co-Author 1  
-      *Journal Name, Volume(Issue), Pages, Year*
+      **Securing Future In-Vehicle Networks: Monitoring and Control for Ethernet Backbones**
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
+      Engineering Safe and Trustworthy Cyber Physical Systems: Essays Dedicated to Werner Damm on the Occasion of His 71st Birthday
+      Eds.: M. Fränzle, J. Niehaus, and B. Westphal
+      Cham: Springer Nature Switzerland, 2026, pp. 163-182. [DOI](https://doi.org/10.1007/978-3-031-97537-0_10)
 
-      **Earlier Work: Interesting Research Topic**  
-      Co-Author 1, Your Name, Co-Author 2  
-      *Conference Name, Year*
+      **Building Automotive Security on Internet Standards: An Integration of DNSSEC, DANE, and DANCE to Authenticate and Authorize In-Car Services**
+      **T. Salomon**, M. Mueller, P. Meyer, T. C. Schmidt
+      Preprint on [arXiv:2504.05793](https://arxiv.org/abs/2504.05793)
 
-      For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ) or [ORCID](https://orcid.org/0000-0002-8343-0625) profiles.
+      **Secure Time-Sensitive Software-Defined Networking in Vehicles** 
+      **T. Häckel**, P. Meyer, F. Korf, T. C. Schmidt
+      IEEE Transactions on Vehicular Technology, Vol. 72, No. 1, pp. 35-51, 2023. [DOI](https://doi.org/10.1109/TVT.2022.3202368)
+
+      **Dynamic Service-Orientation for Software-Defined In-Vehicle Networks**
+      **T. Häckel**, P. Meyer, M. Mueller, J. Schmitt-Solbrig, F. Korf, T. C. Schmidt
+      Proceedings of the IEEE 97th Vehicular Technology Conference (VTC2023-Spring), pp. 1-5, 2023. [DOI](https://doi.org/10.1109/VTC2023Spring57618.2023.10199712)
+      
+      **Strategies for Integrating Control Flows in Software-Defined In-Vehicle Networks and Their Impact on Network Security**
+      **T. Häckel**, A. Schmidt, P. Meyer, F. Korf, and T. C. Schmidt
+      Proceedings of the 2020 IEEE Vehicular Networking Conference (VNC), pp. 1-8, 2020. [DOI](https://doi.org/10.1109/VNC51378.2020.9318372)
+
+      **Software-Defined Networks Supporting Time-Sensitive In-Vehicular Communication**
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
+      Proceedings of the IEEE 89th Vehicular Technology Conference: VTC2019-Spring, pp. 1-5, 2019. [DOI](https://doi.org/10.1109/VTCSpring.2019.8746473)
+
+      **SDN4CoRE: A Simulation Model for Software-Defined Networking for Communication over Real-Time Ethernet**
+      **T. Häckel**, P. Meyer, F. Korf, and T. C. Schmidt
+      Proceedings of the 6th International OMNeT++ Community Summit 2019, pp. 24-31, 2019. [DOI](https://doi.org/10.29007/w71t)
+
+      More publications: [INET RG Homepage](https://www.inet.haw-hamburg.de/publications/TimoSalomon.html), [Google Scholar](https://scholar.google.com/citations?user=hity4acAAAAJ), [ORCID](https://orcid.org/0000-0002-8343-0625).
 
 # Footer
 footer_show_references: true
