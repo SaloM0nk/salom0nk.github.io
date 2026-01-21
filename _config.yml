@@ -185,10 +185,11 @@ content:
     content:
       - layout: left
         title: In-Vehicle Network Simulation
-        sub_title: CoRE RG OMNeT++ Models
+        sub_title: OMNeT++ Models by CoRE RG
         caption: 2016 - 2026
         description: |
           I developed and maintained simulation models for in-vehicle networks within my master's and Ph.D. project. 
+
           Here some quick links: 
           - [CoRE RG on Github](https://github.com/CoRE-RG)
           - [SDN4CoRE (Software-Defined Networking for Communication over Realtime Ethernet)](https://github.com/CoRE-RG/SDN4CoRE)
