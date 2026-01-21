@@ -26,6 +26,7 @@ additional_links:
   url: https://norden.social/@SaloMonk
 
 # About Section
+# ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 about_title: About Me
 about_profile_image: images/profile_ts.jpg
 about_content: | # this will include new lines to allow paragraphs
@@ -37,8 +38,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   Approaching my doctorate, I am looking for opportunities to apply my experience to network and security projects in industry. 
   Feel free to explore my work and get in touch.
-
-  ![An image of Hamburg harbour](images/HamburgScape1500x500.jpg "Hamburg")
 
 content:
   - title: Education
@@ -94,7 +93,7 @@ content:
         description: |
           Researcher, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
 
-          2024 - 2026: Research in the project []"Cyber Physical Security Using Radiometry for the Edge" (C-ray4edge)](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/cray4edge) funded by the German BMBF. 
+          2024 - 2026: Research in the project [Cyber Physical Security Using Radiometry for the Edge (C-ray4edge)](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/cray4edge) funded by the German BMBF. 
 
       - layout: left
         title: Research Assistant 
@@ -103,9 +102,9 @@ content:
         description: |
           Researcher, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
 
-          2018 - 2022: Research in the project ["Security for Vehicular Information" (SecVI)](https://secvi.inet.haw-hamburg.de) funded by the German BMBF. 
+          2018 - 2022: Research in the project [Security for Vehicular Information (SecVI)](https://secvi.inet.haw-hamburg.de) funded by the German BMBF. 
 
-          2022 - 2024: Research in the project ["Innovative Airborne Urban Mobility" (i-LUM)](https://i-lum.de) funded by the Hamburg BWFGB within the Hamburg X Initiative. 
+          2022 - 2024: Research in the project [Innovative Airborne Urban Mobility (i-LUM)](https://i-lum.de) funded by the Hamburg BWFGB within the Hamburg X Initiative. 
 
       - layout: left
         title: Embedded Developer 
