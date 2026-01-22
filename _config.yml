@@ -88,20 +88,20 @@ content:
     layout: list
     content:         
       - layout: left
-        title: Research Assistant 
+        title: Research Associate 
         sub_title: TU Dresden
         caption: 2024 - 2026
         description: |
-          Researcher, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
+          Research, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
 
           2024 - 2026: Research in the project [Cyber Physical Security Using Radiometry for the Edge (C-ray4edge)](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/cray4edge) funded by the German BMBF. 
 
       - layout: left
-        title: Research Assistant 
+        title: Research Associate 
         sub_title: HAW Hamburg
         caption: 2018 - 2024
         description: |
-          Researcher, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
+          Research, Ph.D. student, and scientific supervision of Bachelor's and Master's students.
 
           2018 - 2022: Research in the project [Security for Vehicular Information (SecVI)](https://secvi.inet.haw-hamburg.de) funded by the German BMBF. 
 
